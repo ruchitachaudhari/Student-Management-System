@@ -1,0 +1,60 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Ruchita
+Father's Name: Hemant
+RollNumber: 56
+Email ID: ruchitachaudhari@gmail.com
+Contact Number: 7776041706
+Wants to take: CSE
+Wants to Join in School of Liberal Arts and Sciences
+Wants to be a Hosteller 
+Had chosen: CSE(2, 50, 000)
+Had chosen: 2 SHARE(1, 50, 000)
+                    Total amount to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: CSE
+Wants to Join in School of Liberal Arts and Sciences
+Wants to be a Hosteller 
+Had chosen: CSE(2, 50, 000)
+Had chosen: 2 SHARE(1, 50, 000)
+                    Total amount to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Ruchita
+Father's Name: Hemant
+RollNumber: 50
+Email ID: ruchita@gmail.com
+Contact Number: 7776041706
+Wants to take: CSE
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Hosteller 
+Had chosen: CSE(2, 50, 000)
+Had chosen: 2 SHARE(1, 50, 000)
+                    Total amount to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Ruchita chaudhari
+Father's Name: Hemant chaudhari
+RollNumber: 56
+Email ID: ruchitachaudharo@gmail.com
+Contact Number: 7776041706
+Wants to take: CSE
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Hosteller 
+Had chosen: CSE(2, 50, 000)
+Had chosen: 2 SHARE(1, 50, 000)
+                    Total amount to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Ruchita chaudhari
+Father's Name: Hemant chaudhari
+RollNumber: 56
+Email ID: ruchitachaudharo@gmail.com
+Contact Number: 7776041706
+Wants to take: CSE
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Hosteller 
+Had chosen: CSE(2, 50, 000)
+Had chosen: 2 SHARE(1, 50, 000)
+                    Total amount to be paid is 4 Lakhs   
